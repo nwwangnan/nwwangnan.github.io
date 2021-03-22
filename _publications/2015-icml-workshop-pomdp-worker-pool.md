@@ -7,6 +7,5 @@ excerpt: ''
 date: 2015-06-01
 venue: 'ICML CrowdML Workshop'
 paperurl: 'http://www.crowdml.cc/icml2015/papers/CrowdML-Paper19.pdf'
-citation: ''
+citation:
 ---
-[Download paper here](http://www.crowdml.cc/icml2015/papers/CrowdML-Paper19.pdf)
