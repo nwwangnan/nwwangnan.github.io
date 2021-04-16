@@ -6,6 +6,6 @@ permalink: "/publication/2021-arxiv-summvis"
 excerpt: ''
 date: 2021-01-01
 venue: 'arXiv'
-paperurl:
+paperurl: 'https://arxiv.org/abs/2104.07605.pdf'
 citation:
 ---
