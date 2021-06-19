@@ -23,7 +23,7 @@ Education
   * Supervisor: Professor James Bray
 
 * Spring 2015 to Fall 2016: Data Analyst
-  * Florida ALcohol and Drug Abuse Association
+  * Florida Alcohol and Drug Abuse Association
   * Duties included: database maintenance, data visualization, report writing and presentation.
   * Supervisor: Mary McCarty-Arias
 
