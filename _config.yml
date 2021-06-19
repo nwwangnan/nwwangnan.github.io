@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karan Goel"
+title                    : "Nan Wang"
 title_separator          : "-"
-name                     : &name "Karan Goel"
-description              : &description "CS PhD Student @ Stanford"
-url                      : https://krandiash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nan Wang"
+description              : &description "M&S PhD @ FSU"
+url                      : https://nwwangnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "krandiash/krandiash.github.io"
+repository               : "nwwangnan/nwwangnan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Karan Goel"
-  avatar           : "karan.jpg"
-  bio              : "Machine Learning PhD Student at Stanford"
-  location         : "Stanford, CA"
+  name             : "Nan Wang"
+  avatar           : "Nan.JPG"
+  bio              : "Postdoctoral Researcher at UTSA"
+  location         : "San Antonio, Texas"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=1i3X2GgAAAAJ&hl=en"
-  email            : kgoel@cs.stanford.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=ddVmCKgAAAAJ&hl=en"
+  email            : "nw.wangnan@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Nan-Wang-123"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "krandiash"
+  github           : "nwwangnan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "krandiash"
-  orcid            :
+  linkedin         : "nan-wang-51102490"
+  orcid            : "https://orcid.org/0000-0002-3964-0035"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "krandiash"
+  #twitter          : "krandiash"
   vine             :
   weibo            :
   xing             :
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+github: [metadata]

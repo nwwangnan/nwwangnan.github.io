@@ -11,24 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Electrical Engineering, IIT-Delhi, 2016
-* M.Tech in Information & Communication Technology, IIT-Delhi, 2016
-* M.S. in Machine Learning, Carnegie Mellon University, 2018
-* Ph.D in Computer Science, Stanford University, 2023 (expected)
+* B.A. in English, Tianjin Foreign Studies University, 2006
+* M.A. in Educational Psychology, Washington State University, 2013
+* Ph.D in Measurement & Statistics, Florida State University, 2019 
 
-<!-- Work experience
+-- Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Postdoctoral Researcher
+  * University of Texas at San Antonio
+  * Duties included: teaching an undergraduate class, manuscript preparation and data analysis.
+  * Supervisor: Professor James Bray
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2015 to Fall 2016: Data Analyst
+  * Florida ALcohol and Drug Abuse Association
+  * Duties included: database maintenance, data visualization, report writing and presentation.
+  * Supervisor: Mary McCarty-Arias
 
-Skills
+* Fall 2011 to Spring 2013: Psychometrician Assistant 
+  * Undergraduate Assessment Center (WSU)
+  * Duties included: item calibration, item bank maintenance, result interpretation.
+  * Supervisor: Kathy
+
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
