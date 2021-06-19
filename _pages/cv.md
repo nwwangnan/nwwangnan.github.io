@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+-- Education
 ======
 * B.A. in English, Tianjin Foreign Studies University, 2006
 * M.A. in Educational Psychology, Washington State University, 2013

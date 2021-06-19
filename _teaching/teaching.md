@@ -2,6 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+
 Research plays a central role in my teaching as students improve their analytical skills and master the tools of data analysis through hands-on experience. As a postdoctoral reseacher, I am teaching a undergraduate level statistic course in the psychology department. When I was a graduate student, I also served as a teaching assistant for courses in the program of measurement and statistics at FSU.
 
 
